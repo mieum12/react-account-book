@@ -25,7 +25,7 @@ export function NewExpense(props) {
   return (
     <div className="new-expense">
       {!editing && (
-        <button onClick={startEditingHandler}>Add New Expense</button>
+        <button onClick={startEditingHandler}>새 목록 추가하기</button>
       )}
       {editing && (
         <ExpenseForm

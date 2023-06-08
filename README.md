@@ -1,4 +1,4 @@
-<img src="./전체화면.png">
+<img src="./스크린샷.png">
 
 # Getting Started with Create React App
 
